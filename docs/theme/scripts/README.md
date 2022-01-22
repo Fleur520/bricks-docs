@@ -8,7 +8,7 @@ description: 'Bricks WordPress starter theme development scripts and Gulp tasks'
 
 ## Scripts
 
-Bricks comes with some predefined scripts, which are handy aliases to pre-configured Gulp serial tasks. **Yarn** is the preferred way to run scripts, but it is also possible to run them with plain **npm**.
+Bricks comes with some predefined scripts, which are handy aliases to pre-configured Gulp serial tasks. **Yarn** is the preferred way to run scripts, but it is also possible to run them with plain **npm**.sa
 
 ### Compile (Development Environment)
 
